@@ -110,13 +110,13 @@ a {
   margin-left: 0;
 }
 .header__btn--meny::before {
-  background-image: url("../../img/menu.svg");
+  background-image: url("../img/menu.svg");
 }
 .header__btn--refresh::before {
-  background-image: url("../../img/refresh.svg");
+  background-image: url("../img/refresh.svg");
 }
 .header__btn--moreActions::before {
-  background-image: url("../../img/more-vert.svg");
+  background-image: url("../img/more-vert.svg");
 }
 
 .content {
@@ -254,13 +254,13 @@ a {
   margin-left: 0;
 }
 .person-title__nav-btn--back::before {
-  background-image: url("../../img/arrow-back.svg");
+  background-image: url("../img/arrow-back.svg");
 }
 .person-title__nav-btn--change::before {
-  background-image: url("../../img/create.svg");
+  background-image: url("../img/create.svg");
 }
 .person-title__nav-btn--more::before {
-  background-image: url("../../img/more-vert.svg");
+  background-image: url("../img/more-vert.svg");
 }
 .person-title__name {
   color: #FFFFFF;
@@ -333,7 +333,7 @@ a {
   height: 20px;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url("../../img/hangout.svg");
+  background-image: url("../img/hangout.svg");
 }
 .person-contact__item-comment {
   color: #999999;
@@ -352,7 +352,7 @@ a {
   background-color: #FFFFFF;
 }
 .nav-drawer__user {
-  background-image: url("../../img/user-bgr.jpg");
+  background-image: url("../img/user-bgr.jpg");
   background-repeat: no-repeat;
   padding: 25px 15px 15Px;
   color: #FFFFFF;
@@ -391,28 +391,28 @@ a {
   background-repeat: no-repeat;
 }
 .nav-block .nav__list-item__link--recent::before {
-  background-image: url("../../img/access-time.svg");
+  background-image: url("../img/access-time.svg");
 }
 .nav-block .nav__list-item__link--archive::before {
-  background-image: url("../../img/archive.svg");
+  background-image: url("../img/archive.svg");
 }
 .nav-block .nav__list-item__link--replied::before {
-  background-image: url("../../img/replied.svg");
+  background-image: url("../img/replied.svg");
 }
 .nav-block .nav__list-item__link--sent::before {
-  background-image: url("../../img/send.svg");
+  background-image: url("../img/send.svg");
 }
 .nav-block .nav__list-item__link--trash::before {
-  background-image: url("../../img/delete.svg");
+  background-image: url("../img/delete.svg");
 }
 .nav-block .nav__list-item__link--starred::before {
-  background-image: url("../../img/star.svg");
+  background-image: url("../img/star.svg");
 }
 .nav-block .nav__list-item__link--forums::before {
-  background-image: url("../../img/forum.svg");
+  background-image: url("../img/forum.svg");
 }
 .nav-block .nav__list-item__link--updates::before {
-  background-image: url("../../img/flag.svg");
+  background-image: url("../img/flag.svg");
 }
 
 .user__name {
@@ -445,7 +445,7 @@ a {
   background-repeat: no-repeat;
   width: 16px;
   height: 16px;
-  background-image: url("../../img/arrow-dropdown.svg");
+  background-image: url("../img/arrow-dropdown.svg");
 }
 .user__container {
   margin-bottom: 17px;
